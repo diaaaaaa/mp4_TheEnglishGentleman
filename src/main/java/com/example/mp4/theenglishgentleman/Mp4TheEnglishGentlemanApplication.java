@@ -1,4 +1,4 @@
-package com.example.mp4_TheEnglishGentleman;
+package com.example.mp4.theenglishgentleman;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

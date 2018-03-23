@@ -1,4 +1,4 @@
-package com.example.mp4_TheEnglishGentleman;
+package com.example.mp4.theenglishgentleman;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
